@@ -19,7 +19,7 @@ My name is Beatriz Rocha and I am a Master in Computer Engineering. I am from Po
 ![](https://img.shields.io/badge/Tool-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=ae81ce)
 ![](https://img.shields.io/badge/Tool-pandas-informational?style=flat&logo=pandas&logoColor=white&color=ae81ce)
 ![](https://img.shields.io/badge/Tool-PowerBI-informational?style=flat&logo=powerbi&logoColor=white&color=ae81ce)
-![](https://img.shields.io/badge/Tool-scikit-learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=ae81ce)
+![](https://img.shields.io/badge/Tool-sklearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=ae81ce)
 ![](https://img.shields.io/badge/Tool-SciPy-informational?style=flat&logo=scipy&logoColor=white&color=ae81ce)
 ![](https://img.shields.io/badge/Tool-spaCy-informational?style=flat&logo=spacy&logoColor=white&color=ae81ce)
 ![](https://img.shields.io/badge/Tool-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=ae81ce)
