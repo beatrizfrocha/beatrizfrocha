@@ -1,4 +1,4 @@
-# Hello, world! <img src="wave.gif" width="30px" height="30px" />
+# Hello, World! <img src="wave.gif" width="30px" height="30px" />
 
 My name is Beatriz Rocha and I'm a Master in Computer Engineering. I'm from Portugal and currently working at Syone. You can find me on [![LinkedIn][3.2]][3] as well.
 
@@ -26,6 +26,11 @@ My name is Beatriz Rocha and I'm a Master in Computer Engineering. I'm from Port
 ![](https://img.shields.io/badge/Tool-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=cfa1c7)
 
 ## &#x1f4c8; GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizfrocha)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
