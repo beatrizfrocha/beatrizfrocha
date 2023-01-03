@@ -27,18 +27,8 @@ My name is Beatriz Rocha and I'm a Master in Computer Engineering. I'm from Port
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizfrocha&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Beatriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizfrocha&hide=contribs,prs&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beatrizfrocha&theme=material-palenight&repo=python-introduction)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beatrizfrocha&theme=material-palenight&repo=pandas-tutorial)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizfrocha&theme=material-palenight&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizfrocha&theme=material-palenight" />
 </a>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=beatrizfrocha&hide=contribs,prs&theme=material-palenight"/>
