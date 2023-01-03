@@ -3,13 +3,19 @@
 My name is Beatriz Rocha and I'm a Master in Computer Engineering. I'm from Portugal and currently working at Syone. You can find me on [![LinkedIn][3.2]][3] as well.
 
 ## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=cfa1c7)
+![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=cfa1c7)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=cfa1c7)
+![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=matlab&logoColor=white&color=cfa1c7)
+![](https://img.shields.io/badge/Code-Pascal-informational?style=flat&logo=pascal&logoColor=white&color=cfa1c7)
+![](https://img.shields.io/badge/Code-Prolog-informational?style=flat&logo=prolog&logoColor=white&color=cfa1c7)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=cfa1c7)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=cfa1c7)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=cfa1c7)
+
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=cfa1c7)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
