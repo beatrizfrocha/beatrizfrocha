@@ -1,6 +1,6 @@
 # Hello, World! <img src="wave.gif" width="30px" height="30px" />
 
-My name is Beatriz Rocha and I'm a Master in Computer Engineering. I'm from Portugal and currently working at Syone. You can find me on [![LinkedIn][1]][2] as well.
+My name is Beatriz Rocha and I am a Master in Computer Engineering. I am from Portugal and currently working at Syone as an Associate Engineer. You can find me on [![LinkedIn][1]][2] as well.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=ae81ce)
