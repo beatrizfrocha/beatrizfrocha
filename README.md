@@ -27,7 +27,7 @@ My name is Beatriz Rocha and I'm a Master in Computer Engineering. I'm from Port
 
 ## &#x1f4c8; GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizfrocha)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizfrocha&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
