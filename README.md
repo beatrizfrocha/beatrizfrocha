@@ -32,7 +32,7 @@ My name is Beatriz Rocha and I am a Master in Computer Engineering. I am from Po
         <img width="417" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizfrocha&theme=material-palenight" />
     </a>
     <a href="https://github.com/MartinHeinz/MartinHeinz">
-        <img width="417" src="https://github-readme-stats.vercel.app/api?username=beatrizfrocha&hide=contribs,prs&theme=material-palenight"/>
+        <img width="417" src="https://github-readme-stats.vercel.app/api?username=beatrizfrocha&hide=prs&theme=material-palenightinclude_all_commits"/>
     </a>
     <a href="https://github.com/MartinHeinz/MartinHeinz">
         <img width="417" src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizfrocha&theme=material-palenight&repo=python-introduction" />
@@ -41,18 +41,6 @@ My name is Beatriz Rocha and I am a Master in Computer Engineering. I am from Po
         <img width="417" src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizfrocha&theme=material-palenight&repo=pandas-tutorial" />
     </a>
 </p>
-
-  <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="417" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizfrocha&theme=material-palenight" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="500" height="700" src="https://github-readme-stats.vercel.app/api?username=beatrizfrocha&hide=contribs,prs&theme=material-palenight" alt="readme-typing-svg"></a>
-    <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-    <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
-    <a href="https://github.com/DenverCoder1/unedit-for-reddit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unedit-for-reddit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
-    <a href="https://github.com/DenverCoder1/github-readme-youtube-cards"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-cards&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
-    <a href="https://github.com/DenverCoder1/latex-gboard-dictionary"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=latex-gboard-dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="latex-gboard-dictionary"></a>
-    <a href="https://github.com/DenverCoder1/minimalistic-wallpaper-collection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=minimalistic-wallpaper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="minimalistic-wallpaper-collection"></a>
-    <a href="https://github.com/DenverCoder1/table2ascii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
-  </p>
 
 <!-- icons -->
 
