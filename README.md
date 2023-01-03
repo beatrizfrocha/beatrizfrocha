@@ -27,12 +27,14 @@ My name is Beatriz Rocha and I am a Master in Computer Engineering. I am from Po
 
 ## &#x1f4c8; GitHub Stats
 
+[![Beatriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizfrocha&hide=contribs,prs&theme=material-palenight&include_all_commits=true)]()
+
 <p>
     <a href="https://github.com/MartinHeinz/MartinHeinz">
         <img width="417" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizfrocha&theme=material-palenight" />
     </a>
     <a href="https://github.com/MartinHeinz/MartinHeinz">
-        <img width="417" src="https://github-readme-stats.vercel.app/api?username=beatrizfrocha&hide=prs&theme=material-palenight&include_all_commits=true&count_private=true"/>
+        <img width="417" src="https://github-readme-stats.vercel.app/api?username=beatrizfrocha&hide=contribs,prs&theme=material-palenight&include_all_commits=true"/>
     </a>
     <a href="https://github.com/MartinHeinz/MartinHeinz">
         <img width="417" src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizfrocha&theme=material-palenight&repo=python-introduction" />
