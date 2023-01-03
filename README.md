@@ -2,6 +2,8 @@
 
 My name is Beatriz Rocha and I am a Master in Computer Engineering. I am from Portugal and currently working at Syone as an Associate Engineer. You can find me on [![LinkedIn][1]][2] as well.
 
+[![Widget](https://github-widgetbox.vercel.app/api/profile?username=beatrizfrocha&data=followers,repositories,stars,commits)]()
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=ae81ce)
 ![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=ae81ce)
@@ -24,25 +26,6 @@ My name is Beatriz Rocha and I am a Master in Computer Engineering. I am from Po
 ![](https://img.shields.io/badge/Tool-spaCy-informational?style=flat&logo=spacy&logoColor=white&color=ae81ce)
 ![](https://img.shields.io/badge/Tool-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=ae81ce)
 ![](https://img.shields.io/badge/Tool-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=ae81ce)
-
-## &#x1f4c8; GitHub Stats
-
-[![Beatriz's GitHub stats](https://github-widgetbox.vercel.app/api/profile?username=beatrizfrocha&data=followers,repositories,stars,commits&theme=viridescent)]()
-
-<p>
-    <a href="https://github.com/MartinHeinz/MartinHeinz">
-        <img width="417" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizfrocha&theme=material-palenight" />
-    </a>
-    <a href="https://github.com/MartinHeinz/MartinHeinz">
-        <img width="417" src="https://github-readme-stats.vercel.app/api?username=beatrizfrocha&hide=contribs,prs&theme=material-palenight&include_all_commits=true"/>
-    </a>
-    <a href="https://github.com/MartinHeinz/MartinHeinz">
-        <img width="417" src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizfrocha&theme=material-palenight&repo=python-introduction" />
-    </a>
-    <a href="https://github.com/MartinHeinz/MartinHeinz">
-        <img width="417" src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizfrocha&theme=material-palenight&repo=pandas-tutorial" />
-    </a>
-</p>
 
 <!-- icons -->
 
