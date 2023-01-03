@@ -37,19 +37,19 @@ My name is Beatriz Rocha and I'm a Master in Computer Engineering. I'm from Port
 
 
 
-<a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizfrocha&theme=material-palenight" />
 </a>
-<a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=beatrizfrocha&hide=contribs,prs&theme=material-palenight"/>
 </a>
 
-<a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizfrocha&theme=material-palenight&repo=python-introduction" />
 </a>
 
 
-<a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizfrocha&theme=material-palenight&repo=pandas-tutorial" />
 </a>    
 
