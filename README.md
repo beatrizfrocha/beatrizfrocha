@@ -5,7 +5,7 @@ I am **Beatriz Rocha** 👩‍💻, a Software Engineer from Portugal. I am curr
 [![Widget](https://github-widgetbox.vercel.app/api/profile?username=beatrizfrocha&data=followers,repositories,stars,commits)]()
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Apex-informational?style=flat&logo=c&logoColor=white&color=ae81ce)
+![](https://img.shields.io/badge/Code-Apex-informational?style=flat&logo=apex&logoColor=white&color=ae81ce)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=ae81ce)
 ![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=ae81ce)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ae81ce)
