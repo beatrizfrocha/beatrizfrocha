@@ -1,6 +1,6 @@
 # Hello, World! <img src="wave.gif" width="30px" height="30px" />
 
-I am **Beatriz Rocha** 👩‍💻, a Software Engineer from Portugal 🇵🇹. I am currently working at [FARFETCH](https://www.farfetch.com), where I am part of the Automation & CRM team. If you are interested in learning more about my professional background and experience, feel free to connect with me on [![LinkedIn][1]][2].
+I am **Beatriz Rocha** 👩‍💻, a Software Engineer from Portugal. I am currently working at [FARFETCH](https://www.farfetch.com), where I am part of the Automation & CRM team. If you are interested in learning more about my professional background and experience, feel free to connect with me on [![LinkedIn][1]][2].
 
 [![Widget](https://github-widgetbox.vercel.app/api/profile?username=beatrizfrocha&data=followers,repositories,stars,commits)]()
 
